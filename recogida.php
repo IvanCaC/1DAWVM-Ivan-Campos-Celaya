@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="es">
         <head>
         <meta charset="UTF-8" />
-        <title>Ejemplo de formulario en la propia página</title>
+        <title>Ejemplo de formulario en el que estamos comprobando los cambios de github. ahora pondre tildes vocación,locomoción,sí</title>
         </head>
     <body>
         <?php
